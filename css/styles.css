@@ -1,0 +1,10 @@
+.walrus-showing{
+    display: none;
+}
+p{
+    cursor:pointer;
+    color:rgb(red, green, rgb(68, 68, 167));
+}
+p:hover{
+    text-decoration-color: aqua;
+}
